@@ -1,0 +1,17 @@
+.point {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 31px;
+  bottom: 28px;
+}
+
+.screen-header__icons .point {
+  left: 23px;
+  bottom: 22px;
+}
